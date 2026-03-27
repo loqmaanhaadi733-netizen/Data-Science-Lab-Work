@@ -1,12 +1,12 @@
-# Lab 2: Control Statements
+# Lab 1: Introduction to Python
 
 ## Objective
-To learn decision-making and loops in Python.
+To understand basic Python programming concepts.
 
 ## Topics Covered
-- If-else statements
-- Loops (for, while)
-- Conditional logic
+- Variables and data types
+- Input and output
+- Basic operations
 
 ## Tools Used
 - Python
